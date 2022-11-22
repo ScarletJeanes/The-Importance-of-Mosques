@@ -1,0 +1,175 @@
+
+
+h1 {
+  color: black;
+  font-family: alibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  margin-left: 20px;
+}
+
+h2 {
+  color: black;
+  font-family: alibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  margin-left: 20px;
+}
+h3 {
+  color: black;
+  font-family: alibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  margin-left: 20px;
+}
+
+body {
+  margin: 0;
+  background-color: White;
+  width: 100%;
+
+}
+
+span {
+  font-size: 10px;
+}
+blockquote {
+  color: black;
+  display: inline-block;
+  text-align: center;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 21px;
+  line-height: 30px;
+}
+hr {
+  border-style: dotted;
+  border-width: medium;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+
+
+}
+p {
+  color: black;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+li {
+  color: black;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  margin-left: 50px
+}
+
+.body1 {
+  margin: 20px;
+}
+.jabreel {
+  color: black;
+  display: inline-block;
+  text-align: center;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 15px;
+  line-height: 20px;
+  width: 600px;
+}
+.ali {
+  width: 700px;
+  float: right;
+  margin: 20px;
+}
+.body1div {
+  display: inline-block;
+  width: 900px;
+  text-align: justify;
+}
+
+.body2 {
+  margin: 20px;
+}
+
+.body2div {
+  display: inline-block;
+  width: 750px;
+  text-align: justify;
+}
+
+.carpet {
+  width: 340px;
+  float: right;
+  margin: 10px;
+}
+
+.nav {
+  display: inline-block;
+  margin: 0;
+  color: black;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  text-decoration: none;
+
+}
+.mosque {
+  width: 150px;
+  float: left;
+  margin: 10px;
+}
+.boxy {
+  display: inline-block;
+  color: white;
+}
+
+.badboxy {
+  width: 250px;
+  height: 250px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 0;
+/*  margin-left: 50px;*/
+  color: white;
+}
+
+.ref {
+  margin: 50px 50px 0 50px;
+
+}
+
+.boxy1 {
+  width: 250px;
+  height: 250px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: white;
+}
+
+.navSect {
+  display: inline-block;
+  background-color: white;
+  padding: 20px 50px 20px 50px;
+
+}
+.navSect1 {
+  display: inline-block;
+  background-color: white;
+  padding: 5px 50px 5px 50px;
+
+}
+
+.navSect:hover {
+  background-color: #f5f4f2;
+}
+
+.damncap {
+  width: 32%;
+  float: right;
+  margin-right: 50px;
+}
+
+.navBar {
+  background-color: white;
+  position: sticky;
+  top:0;
+  width:100%;
+  opacity: 0.75;
+  display: inline-block;
+
+}
+
+.navSpace {
+  display: inline-block;
+  width: 700px;
+}
